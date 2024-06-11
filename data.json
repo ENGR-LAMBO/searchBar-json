@@ -1,0 +1,16 @@
+[
+    {
+        "category": "Fruits",
+        "items": [
+            { "name": "Apple", "image": "images/apple.jpg" },
+            { "name": "Banana", "image": "images/banana.jpg" },
+            { "name": "Cherry", "image": "images/cherry.jpg" },
+            { "name": "Date", "image": "images/date.jpg" },
+            { "name": "Fig", "image": "images/fig.jpg" },
+            { "name": "Grape", "image": "images/grape.jpg" },
+            { "name": "Kiwi", "image": "images/kiwi.jpg" },
+            { "name": "Lemon", "image": "images/lemon.jpg" },
+            { "name": "Mango", "image": "images/mango.jpg" }
+        ]
+    }
+]
